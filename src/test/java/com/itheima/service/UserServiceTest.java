@@ -41,6 +41,7 @@ public class UserServiceTest {
         System.out.println("dev分支再次制造冲突");
         System.out.println("主分支制造冲突");
         System.out.println("主分支再次制造冲突");
+        System.out.println("别人提交");
     }
 
     @Test
