@@ -38,6 +38,7 @@ public class UserServiceTest {
     public void addUser() {
         System.out.println("测试pull");
         System.out.println("主分支制造冲突");
+        System.out.println("别人提交");
     }
 
     @Test
