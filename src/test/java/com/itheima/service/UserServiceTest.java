@@ -36,6 +36,7 @@ public class UserServiceTest {
 
     @Test
     public void addUser() {
+        System.out.println("测试pull")
     }
 
     @Test
